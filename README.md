@@ -5513,8 +5513,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/anubhav9369">
-                    <img src="https://github.com/account" width="100px;"
-                        alt="Anubhav Verma" />
+                     <img src="https://github.com/anubhav9369.png" width="100px;" alt="Anubhav Verma" />
                     <br />
                     <sub>
                         <b>Anubhav Verma</b>
